@@ -13,3 +13,4 @@ export class LoginRegisterLayoutComponent implements OnInit {
   }
 
 }
+ 
